@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "demo-user-id-1234",
+    "username": "demo",
+    "email": "demo@safeher.com",
+    "password": "$2b$10$Ph9Vn5M64edDzP6fGVq3ZuBlBQS34zTL9ZENB5a4KYwS3moyMTcNO",
+    "emergencyContacts": [
+      {
+        "name": "Mother",
+        "phone": "+91-9876543210"
+      },
+      {
+        "name": "Sister",
+        "phone": "+91-9876543211"
+      }
+    ],
+    "createdAt": "2026-06-15T13:04:10.073Z"
+  },
+  {
+    "_id": "user-1782040767611",
+    "username": "adhvithik1@gmail.com",
+    "email": "adhvithik1@gmail.com",
+    "password": "$2b$10$u12hvOHYMYcPvNQV3L4R7urHOfbIPNI.re9lM3OTIvjE4g3VgXuSG",
+    "emergencyContacts": [
+      {
+        "name": "Mother",
+        "phone": "1234567890"
+      },
+      {
+        "name": "Sister/Friend",
+        "phone": "poiuytrewq"
+      }
+    ],
+    "createdAt": "2026-06-21T11:19:27.611Z"
+  }
+]
